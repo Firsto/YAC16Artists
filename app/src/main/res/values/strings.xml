@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Artists</string>
+
+    <string name="title_activity_artists_list">Artists</string>
+    <string name="albums">%1$s albums, %2$s tracks</string>
+    <string name="albums_detail">%1$s albums • %2$s tracks</string>
+    <string name="biography">Biography</string>
+</resources>
